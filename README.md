@@ -1,0 +1,1 @@
+The project specifically uses data related to songs and their features, like streaming statistics and audio characteristics. The project aims to explore and understand various aspects of music, such as song popularity, audio features, artist statistics, and more
